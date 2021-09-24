@@ -7,7 +7,7 @@ kakaoapikey.txt
 password.txt
 guideSearchApi/
 mysql.json
-
+kaggle.json
 # C extensions
 *.so
 
