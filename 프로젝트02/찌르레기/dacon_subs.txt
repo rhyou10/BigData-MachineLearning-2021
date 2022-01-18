@@ -1,0 +1,10 @@
+모델링에 사용된 파일 :  데이터_추가_전처리(불용어추가).csv  
+
+테스트에 사용된 파일 :  test_전처리.csv
+
+title 컬럼으로 테스트                : submission_title.csv
+data 컬럼으로 테스트               : submission_data.csv
+new_title 컬럼으로 테스트         : submission_new_title.csv
+new_title1 컬럼으로 테스트       : submission_new_title1.csv
+new_title2 컬럼으로 테스트       : submission_new_title2.csv
+new_title3 컬럼으로 테스트       : submission_new_title3.csv
